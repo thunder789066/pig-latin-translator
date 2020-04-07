@@ -1,0 +1,1 @@
+c:\users\christina\documents\visual studio 2015\Projects\PigLatinTranslator\PigLatinTranslator\bin\Debug\PigLatinTranslator.exe.config
